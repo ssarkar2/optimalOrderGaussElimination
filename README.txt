@@ -17,3 +17,5 @@ plotgraphs.m is a matlab script to plot the data.
 scrrenshots and output files are included
 
 Source_onlyGEM.c contains the GEM code. It does not compile. It just shows the relevant GEM code
+
+Implements the paper: Algorithmic Aspects of Vertex Elimination on Graphs. https://www2.eecs.berkeley.edu/Pubs/TechRpts/1974/ERL-m-483.pdf
